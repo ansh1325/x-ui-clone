@@ -1,0 +1,4 @@
+tailwindcss
+postcss
+autoprefixer
+vite
