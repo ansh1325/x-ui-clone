@@ -29,10 +29,3 @@ I built this to practice **responsive design** and **Tailwind CSS** utility clas
 - **Twitter favicon and image assets**
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the project
-```bash
-git clone https://github.com/ansh1325/twitter-clone-tailwind.git
-cd twitter-clone-tailwind
